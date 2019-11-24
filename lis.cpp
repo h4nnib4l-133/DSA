@@ -1,4 +1,5 @@
 #include<iostream>
+<<<<<<< HEAD
 #include<bits/stdc++.h>
 
 
@@ -33,4 +34,24 @@ cout << lis(arr) << " ";
 
 return 0;
 
+=======
+#include<algorithm>
+
+using namespace std;
+
+int lis(vector<int> &A){
+			
+			
+
+}
+
+
+
+int main(){
+
+vector<int> arr = {1,2,5,10,3,21,11,4,3,2}
+int num;
+
+return 0;
+>>>>>>> 999839f6d57d17ac7ead7c420028dfb1bee286a5
 }
